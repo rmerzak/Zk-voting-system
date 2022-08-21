@@ -1,0 +1,29 @@
+{
+  "name": "zk-voting-system",
+  "version": "1.0.0",
+  "description": "implementation of a voting system using Zero Knowledge Proofs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmerzak/Zk-voting-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmerzak/Zk-voting-system/issues"
+  },
+  "homepage": "https://github.com/rmerzak/Zk-voting-system#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "circom_tester": "^0.0.14",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "mocha": "^10.0.0"
+  }
+}
